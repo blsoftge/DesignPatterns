@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/estrategias/StrategyCalcPrejuizo.java</file>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/Produto.java</file>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/estrategias/StrategyCalcLucro.java</file>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/Main.java</file>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/estrategias/StrategyCalculo.java</file>
+            <file>file:/home/bruno/NetBeansProjects/blsoft_canal/DesignPatterns/src/padraoStrategy/estrategias/StrategyCalcFixo.java</file>
+        </group>
+    </open-files>
+</project-private>
