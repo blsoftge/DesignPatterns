@@ -15,7 +15,7 @@ public class StrategyCalcPrejuizo implements StrategyCalculo{
     
     @Override
     public double calcularLucro(double preco) {
-        return preco - 50;
+        return preco - PREJUIZO;
     }
     
 }
